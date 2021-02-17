@@ -21,3 +21,8 @@ h2 {
     align-self: flex-end;
     margin-right: 3rem;
 }
+
+li {
+    cursor: pointer;
+    margin: 0.5rem;
+}
