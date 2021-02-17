@@ -20,4 +20,4 @@ Vue props: https://vimeo.com/509686645
 
 ## Inspelningar
 
-https://drive.google.com/drive/folders/1Wed4M9C_ck7qPWrSZkc990hVT5Eot3k-?usp=sharing
+https://drive.google.com/drive/folders/1Md91COgjLJ4qbxNcIK0D2qOTlXYGeVdt?usp=sharing
